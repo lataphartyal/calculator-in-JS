@@ -1,2 +1,2 @@
-# calculator-in-JS
+# Mern Stack JS
 Its all about pratice.....
